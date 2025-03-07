@@ -1,13 +1,6 @@
 # 🚴‍♂️ Dashboard Penyewaan Sepeda
 
-Proyek ini merupakan dashboard interaktif untuk menganalisis data penyewaan sepeda menggunakan **Google Colab** dan **Streamlit**.
-
-## 🛠️ Teknologi yang Digunakan
-- Python  
-- Streamlit  
-- Pandas  
-- Matplotlib  
-- Seaborn  
+Proyek ini merupakan dashboard interaktif untuk menganalisis data penyewaan sepeda menggunakan **Google Colab** dan **Streamlit**.  
 
 ## 📄 Dataset
 Dataset yang digunakan:  
